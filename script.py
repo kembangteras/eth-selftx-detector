@@ -8,3 +8,4 @@
 # fix 1589
 # optimize 4622
 # fix 7726
+# fix 6082
