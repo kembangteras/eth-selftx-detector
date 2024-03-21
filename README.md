@@ -6,3 +6,4 @@
 - Update note 5580
 - Update note 9375
 - Update note 9408
+- Update note 6767
