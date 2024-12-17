@@ -6,3 +6,4 @@
 # optimize 9576
 # optimize 4724
 # fix 1589
+# optimize 4622
