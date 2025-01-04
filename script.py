@@ -69,3 +69,4 @@
 # fix 1252
 # refactor 7710
 # refactor 8491
+# optimize 1320
