@@ -11,3 +11,4 @@
 # fix 6082
 # optimize 4593
 # fix 8343
+# optimize 6569
